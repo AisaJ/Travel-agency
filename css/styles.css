@@ -1,0 +1,21 @@
+h1, h2{
+  color: #f7325e;
+}
+body{
+  font-family: fantasy;
+}
+body p{
+  color: #7dc410;
+}
+.popular{
+  height: 20em;
+  width: auto;
+  padding: 1em;
+}
+.tropical{
+  color: black;
+}
+img{
+  height: auto;
+  width: 40em;
+}
