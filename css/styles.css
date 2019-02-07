@@ -8,6 +8,7 @@ body p{
   color: #7dc410;
 }
 .popular{
+  display: grid;
   height: 20em;
   width: auto;
   padding: 1em;
